@@ -24,8 +24,8 @@ public class rat {
         {0,1,1},
         {0,0,1},
       };
-    int x = 2;
-    int y = 2; 
+    int x = 0;
+    int y = 0; 
     System.out.println(rat(x,y,grid));
       
   }
